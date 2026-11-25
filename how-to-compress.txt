@@ -1,0 +1,2 @@
+python jerezip.py c out.jlzip folder/ -l ultra -f auto -p
+python jerezip.py x out.jlzip dest

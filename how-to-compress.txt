@@ -1,2 +1,4 @@
-python jerezip.py c out.jlzip folder/ -l ultra -f auto -p
+python jerezip.py c out.jlzip folder/ -l ultra -f auto
 python jerezip.py x out.jlzip dest
+
+python jerezip.py [c = compress, x = extract] [output].jlzip [folderPath]/ -l [compression hardness, normal max or ultra], -f [bcu filter, default auto]
